@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <parent>
+    <groupId>org.codehaus.mojo.archetypes</groupId>
+    <artifactId>mojo-archetypes</artifactId>
+    <version>6</version>
+  </parent>
+
+  <groupId>com.oracle.samples.javaee7.archetypes</groupId>
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>javaee7-web</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <packaging>maven-archetype</packaging>
+  <name>Java EE 7 WAR Archetype</name>
+  <description>Archetype for a web application using Java EE 7 and GlassFish Embedded plugin. Based on Codehau Mojo archetype 'webapp-javaee7'</description>
+</project>
