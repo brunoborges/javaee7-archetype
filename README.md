@@ -13,4 +13,5 @@ mvn -DarchetypeGroupId=com.oracle.samples.javaee7.archetypes -DarchetypeArtifact
 
 # Fork
 This is a fork of the webapp-javaee7 archetype at Codehaus.org
+
 Only difference is the configuration of the glassfish embedded plugin
