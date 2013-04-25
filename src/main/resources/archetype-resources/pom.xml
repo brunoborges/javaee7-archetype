@@ -42,7 +42,7 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
-            <version>7.0-b83</version>
+            <version>7.0-b86</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
@@ -86,7 +86,7 @@
                                 <artifactItem>
                                     <groupId>javax</groupId>
                                     <artifactId>javaee-endorsed-api</artifactId>
-                                    <version>7.0-b83</version>
+                                    <version>7.0-b86</version>
                                     <type>jar</type>
                                 </artifactItem>
                             </artifactItems>
@@ -112,7 +112,7 @@
          <dependency>
            <groupId>org.glassfish.main.extras</groupId>
            <artifactId>glassfish-embedded-all</artifactId>
-           <version>4.0-b83</version>
+           <version>4.0-b86</version>
          </dependency>
        </dependencies>
      </plugin>
