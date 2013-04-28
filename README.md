@@ -14,4 +14,7 @@ mvn -DarchetypeGroupId=com.oracle.samples.javaee7.archetypes -DarchetypeArtifact
 # Fork
 This is a fork of the webapp-javaee7 archetype at Codehaus.org
 
-Only difference is the configuration of the glassfish embedded plugin
+Small differences:
+* this archetype has predefined configuration of the GlassFish Embedded Plugin 3.1.2.2 using GlassFish Embedded 4.0, as stated in here:
+ - https://blogs.oracle.com/brunoborges/entry/glassfish_4_beta_and_maven
+* references the javaee7-api (Full profile), instead of web-api as with Mojo's archetype
