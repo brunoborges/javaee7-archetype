@@ -21,7 +21,7 @@
     <repositories>
         <repository>
             <id>maven.java.net</id>
-            <url>https://maven.java.net/content/groups/promoted/</url>
+            <url>http://maven.java.net/content/groups/promoted/</url>
         </repository>
     </repositories>
 
@@ -29,7 +29,7 @@
         <pluginRepository>
             <id>maven.java.net</id>
             <name>Java.net Repository for Maven</name>
-            <url>https://maven.java.net/content/groups/promoted/</url>
+            <url>http://maven.java.net/content/groups/promoted/</url>
         </pluginRepository>
         <pluginRepository>
             <id>maven2-repository.dev.java.net</id>
